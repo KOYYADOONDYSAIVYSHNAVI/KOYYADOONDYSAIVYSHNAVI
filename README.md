@@ -2,7 +2,7 @@
 
 ### 🎓 Recent Graduate in Computer Science from the University of Chicago
 
-<img align='right' src="0_K2WLMTExLyida7OR.gif" width="230">
+<img align='right' src="0_K2WLMTExLyida7OR.gif" width="430">
 
 - 🔭 I’m currently working on [Grantaide](https://github.com/DIYVERSITY/GrantAide) 
 - 🌱 I’m currently learning Cloud deployment and DevOps workflows using AWS, Docker, and CI/CD pipelines
