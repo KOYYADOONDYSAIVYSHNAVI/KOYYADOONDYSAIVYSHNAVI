@@ -4,7 +4,7 @@
 
 <img align='right' src="0_K2WLMTExLyida7OR.gif" width="430">
 
-- 🔭 I’m currently working on [Grantaide](https://github.com/DIYVERSITY/GrantAide) 
+- 🔭 I’m currently working on [Outlier]([https://github.com/DIYVERSITY/GrantAide](https://outlier.ai/)) 
 - 🌱 I’m currently learning Cloud deployment and DevOps workflows using AWS, Docker, and CI/CD pipelines
 - 💬 Ask me about Building responsive and interactive UIs with React.js, HTML5, and CSS3, and integrating them with backend APIs using Flask or FastAPI
 - 📫 How to reach me: ✉️ [vyshnavikds@gmail.com](mailto:vyshnavikds@gmail.com), 💼 [LinkedIn](https://www.linkedin.com/in/doondy-sai-vyshnavi-koyya-137ab8215/)
